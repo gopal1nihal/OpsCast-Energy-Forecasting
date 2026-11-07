@@ -1,0 +1,12 @@
+{
+  "selected_model": "Histogram gradient boosting",
+  "test_metrics": {
+    "MAE": 2.72487115655395,
+    "RMSE": 3.4323836409875215,
+    "R2": 0.9803235680128152
+  },
+  "train_rows": 9072,
+  "validation_rows": 1944,
+  "test_rows": 1944,
+  "data_note": "synthetic unless replaced"
+}

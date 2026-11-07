@@ -1,0 +1,17 @@
+feature,importance
+active_buildings,16.179478860261703
+occupancy_building_load,5.038797378313663
+temperature_c,4.425464339015787
+occupancy_pct,0.8461265603924412
+hour,0.40498962151239554
+energy_price_per_kwh,0.07786217447675321
+previous_hour_kwh,0.07279477788072541
+humidity_pct,0.06426256835978934
+month,0.002434035923049841
+is_business_hours,0.0019122437913786279
+day_of_week,0.001359810277537769
+is_holiday,0.0
+operating_hours,0.0
+is_weekend,0.0
+heating_degree,0.0
+cooling_degree,-5.445267056591874e-05
