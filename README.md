@@ -63,7 +63,7 @@ python train.py
 streamlit run app.py
 ```
 
-Open the local URL printed by Streamlit (usually http://localhost:8501).
+Open the local URL printed by Streamlit (usually https://opscast-energy-forecasting.streamlit.app/).
 
 ## 2. Input data format
 
