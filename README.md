@@ -10,8 +10,11 @@ An end-to-end regression project for estimating hourly electricity consumption a
 - Saves the trained pipeline and metrics.
 - Provides a Streamlit dashboard for predictions, historical analysis, and feature importance.
 
-> **Honesty note:** The included data is synthetic so the project runs immediately. Do not describe it as real campus/company data. For a production deployment, replace it with permissioned meter readings and matching occupancy/weather data, retrain, and monitor model drift.
+> ### Dataset
 
+OpsCast currently works with a generated hourly energy consumption dataset. It includes temperature, humidity, occupancy, building activity, operating hours and electricity consumption.
+
+The dataset is used to develop and test the forecasting pipeline. The application can also be adapted to work with actual facility energy records.
 ## Project structure
 ```text
 opscast/
